@@ -23,5 +23,7 @@ Happy flapping :)
  
 ### Commands 
 **build:** make build
+
 **clean:** make clean
+
 **run:** make run
