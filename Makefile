@@ -27,8 +27,8 @@ include $(DEVKITARM)/gba_rules
 #---------------------------------------------------------------------------------
 TARGET		:= rom/FlappyBee
 BUILD		:= build
-SOURCES		:= src src/display
-INCLUDES	:= include
+SOURCES		:= src src/displaycnt src/images src/game
+INCLUDES	:= include src/displaycnt src/images src/game
 DATA		:=
 MUSIC		:=
 
