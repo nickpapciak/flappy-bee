@@ -2,7 +2,7 @@
 
 Flappy Bee is the latest and hottest indie ~~mobile~~ Game Boy game of the 2010's.
 
-When you launch the game, press *A* (**x** on the computer keyboard) to flap your wings! Green pipes will start barreling your way, so do your best to avoid them by pressing *A* to flap. When you inevitably smash face-first into a pipe, keep on trying and aim for a higher score :)
+When you launch the game, press *A* (**x** on the computer keyboard) to flap your wings! Green pipes will start barreling your way, so do your best to avoid them by pressing *A* to flap. When you inevitably smash face-first into a pipe, keep on trying and aim for a higher score. 
 
 Happy flapping :)
 
@@ -10,6 +10,7 @@ Happy flapping :)
 
 ## Controls
 **A**                jump / start
+
 **B**				 back
 
 ## Notes: 
