@@ -19,7 +19,7 @@ Happy flapping :)
 ## Compilation
 ### Requirements
  - devkitpro 
- - for MacOS use https://giovanni.codes/gba-development-setup-in-macos/
+ - install it with this [setup guide](https://devkitpro.org/wiki/Getting_Started)
  
 ### Commands 
 **build:** make build
