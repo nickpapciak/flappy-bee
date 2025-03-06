@@ -14,7 +14,7 @@ Happy flapping :)
 **B**				 back
 
 ## Notes: 
-- This was a small Flappy Bird clone for a project in my low-level programming class. It was built in C and is built to be run on (or emulated on) Game Boy Advance hardware. I decided to publish it onto GitHub after winning first place in a class competition for the best game!
+- This was a Flappy Bird clone for a project in my low-level programming class. It was built in C and is built to be run on (or emulated on) Game Boy Advance hardware. I decided to publish it onto GitHub after winning first place in a class competition for the best game!
 
 ## Compilation
 ### Requirements
